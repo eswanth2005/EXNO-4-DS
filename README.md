@@ -24,10 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
-REG NO:212224110045
-NAME: A PRANEYA
-```
+
 ```
 import pandas as pd
 from scipy import stats
